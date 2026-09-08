@@ -1,0 +1,5 @@
+{
+  "name": "remodel-22-final",
+  "private": true,
+  "scripts": { "build": "mkdir -p dist && cp public/index.html dist/index.html" }
+}
